@@ -1,1 +1,1 @@
-<img align="center" alt="GIF" src="https://gfycat.com/harmlessheartfeltjabiru" />
+<img src="https://gfycat.com/harmlessheartfeltjabiru" align="center" style="width: 60%" />
